@@ -1,0 +1,122 @@
+[
+    {
+        "name" : "SILLON",
+        "category" : "sillas",
+        "price" : 23000,
+        "imgSrc" : "images/armchair.png"
+    },
+    {
+        "name" : "CAMA",
+        "category" : "camas",
+        "price" : 44000,
+        "imgSrc" : "images/bed.png"
+    },
+    {
+        "name" : "BANCO",
+        "category" : "exterior",
+        "price" : 13000,
+        "imgSrc" : "images/bench.png"
+    },
+    {
+        "name" : "MARINERA",
+        "category" : "camas",
+        "price" : 67000,
+        "imgSrc" : "images/bunk-bed.png"
+    },
+    {
+        "name" : "GABINETE",
+        "category" : "cajoneros",
+        "price" : 38000,
+        "imgSrc" : "images/cabinet.png"
+    },
+    {
+        "name" : "MESA DE JUEGO",
+        "category" : "mesas",
+        "price" : 17000,
+        "imgSrc" : "images/card-table.png"
+    },
+    {
+        "name" : "ALMOHADON",
+        "category" : "camas",
+        "price" : 1200,
+        "imgSrc" : "images/cushion.png"
+    },
+    {
+        "name" : "ESCRITORIO",
+        "category" : "escritorios",
+        "price" : 8500,
+        "imgSrc" : "images/desk.png"
+    },
+    {
+        "name" : "CAJONERO",
+        "category" : "cajoneros",
+        "price" : 12000,
+        "imgSrc" : "images/drawer.png"
+    },
+    {
+        "name" : "SILLA TIPO OFICINA",
+        "category" : "sillas",
+        "price" : 6500,
+        "imgSrc" : "images/office-chair.png"
+    },
+    {
+        "name" : "SILLA TIPO TIJERA",
+        "category" : "sillas",
+        "price" : 73000,
+        "imgSrc" : "images/scissors-chair.png"
+    },
+    {
+        "name" : "SOFA",
+        "category" : "Sofa",
+        "price" : 127000,
+        "imgSrc" : "images/sleeper-sofa.png"
+    },
+    {
+        "name" : "CAMA",
+        "category" : "camas",
+        "price" : 74500,
+        "imgSrc" : "images/sleigh-bed.png"
+    },
+    {
+        "name" : "SOFA CAMA",
+        "category" : "sofa",
+        "price" : 92600,
+        "imgSrc" : "images/sofa-bed.png"
+    },
+    {
+        "name" : "SILLON BLANCO",
+        "category" : "sillas",
+        "price" : 36000,
+        "imgSrc" : "images/white-armchair.png"
+    },
+    {
+        "name" : "SOFA BLANCO",
+        "category" : "Sofa",
+        "price" : 45000,
+        "imgSrc" : "images/white-sofa.png"
+    },
+    {
+        "name" : "SILLON APOYABRAZOS",
+        "category" : "sillas",
+        "price" : 36000,
+        "imgSrc" : "images/wing-chair.png"
+    },
+    {
+        "name" : "MESEDORA",
+        "category" : "sillas",
+        "price" : 23000,
+        "imgSrc" : "images/wooden-armchair.png"
+    },
+    {
+        "name" : "JUEGO MESAS Y SILLAS",
+        "category" : "madera",
+        "price" : 97000,
+        "imgSrc" : "images/wooden-dining-table.png"
+    },
+    {
+        "name" : "MESA LABRADA",
+        "category" : "mesas",
+        "price" : 103000,
+        "imgSrc" : "images/wooden-table.png"
+    }
+]
